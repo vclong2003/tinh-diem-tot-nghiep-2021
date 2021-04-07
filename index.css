@@ -1,0 +1,50 @@
+#navBar{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    top: 0;
+    width: 100%;
+    position: sticky;
+}
+
+#logo {
+        width: 10%;
+        display: flex;
+        align-items: center;
+        padding-top: 0.12%;
+}
+
+#body {
+    background-color: black;
+}
+
+#table {
+    margin-top: 8%;
+    width: 90%;
+    overflow: hidden;
+}
+
+#main{
+    width: 100%;
+    background-color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 200%;
+}
+
+#tinhxuoi0 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 150%;
+}
+
+#tinhnguoc0 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 150%;
+}
+
+@media only screen and (max-width: 800px) {
+    #logo {
+        padding-top: 0.6%;
+        width: 20%;
+    }
+}
