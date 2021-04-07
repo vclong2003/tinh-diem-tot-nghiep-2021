@@ -15,6 +15,10 @@
         padding-top: 0.12%;
 }
 
+#toolName{
+    color: rgb(226, 148, 3);
+}
+
 #body {
     background-color: black;
 }
@@ -46,5 +50,9 @@
     #logo {
         padding-top: 0.6%;
         width: 20%;
+    }
+
+    #toolName {
+        font-size: 180%;
     }
 }
