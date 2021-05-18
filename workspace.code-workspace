@@ -2,6 +2,14 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "VCL-movies",
+			"path": "..\\VCL-movies"
+		},
+		{
+			"name": "about_me",
+			"path": "..\\about_me"
 		}
 	],
 	"settings": {}
